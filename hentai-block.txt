@@ -1,0 +1,65 @@
+# ------------------------------------[ATUALIZAÇÃO]---------------------------------
+# Título: Lista de Bloqueio Hentai/Animação - Criador: Clayton
+# Atualiza em: 1 dia
+# Página do projeto: https://github.com/SEU-USUARIO/NOME-DO-REPO
+# Suporte: Para dúvidas, sugestões ou reportar falsos positivos, acesse o repositório.
+# Licença: Uso livre e gratuito (Unlicense)
+# Total de domínios na lista: (preencher conforme for aumentando)
+# -----------------------------------[SOBRE]----------------------------------------
+# Esta lista foi criada por Clayton para bloquear sites de hentai, animação e conteúdo adulto similar.
+# Para reportar falsos positivos ou sugerir novos domínios, abra um issue no GitHub do projeto.
+# -----------------------------------[LISTA]----------------------------------------
+# Hentai list
+# ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 hentaistube.com
+0.0.0.0 www.hentaistube.com
+0.0.0.0 hanime.tv
+0.0.0.0 www.hanime.tv
+0.0.0.0 hentaihaven.xxx
+0.0.0.0 www.hentaihaven.xxx
+0.0.0.0 nhentai.net
+0.0.0.0 www.nhentai.net
+0.0.0.0 rule34.xxx
+0.0.0.0 www.rule34.xxx
+0.0.0.0 hentaifox.com
+0.0.0.0 www.hentaifox.com
+0.0.0.0 hentai2read.com
+0.0.0.0 www.hentai2read.com
+0.0.0.0 hits.moe
+0.0.0.0 www.hits.moe
+0.0.0.0 hentaiheroes.com
+0.0.0.0 www.hentaiheroes.com
+0.0.0.0 hentai-foundry.com
+0.0.0.0 www.hentai-foundry.com
+0.0.0.0 myhentaigallery.com
+0.0.0.0 www.myhentaigallery.com
+0.0.0.0 hentaigasm.com
+0.0.0.0 www.hentaigasm.com
+0.0.0.0 hentaimama.com
+0.0.0.0 www.hentaimama.com
+0.0.0.0 multporn.net
+0.0.0.0 www.multporn.net
+0.0.0.0 simply-hentai.com
+0.0.0.0 www.simply-hentai.com
+0.0.0.0 3dhentaivideo.com
+0.0.0.0 www.3dhentaivideo.com
+0.0.0.0 hentai44.com
+0.0.0.0 www.hentai44.com
+0.0.0.0 hentaichan.live
+0.0.0.0 www.hentaichan.live
+0.0.0.0 hentai.to
+0.0.0.0 www.hentai.to
+0.0.0.0 hentai.tv
+0.0.0.0 www.hentai.tv
+0.0.0.0 hentaistream.com
+0.0.0.0 www.hentaistream.com
+0.0.0.0 hentaipulse.com
+0.0.0.0 www.hentaipulse.com
+0.0.0.0 hentaidude.com
+0.0.0.0 www.hentaidude.com
+0.0.0.0 hentai.xxx
+0.0.0.0 www.hentai.xxx
+0.0.0.0 hentaicore.org
+0.0.0.0 www.hentaicore.org
+0.0.0.0 hentaiworld.tv
+0.0.0.0 www.hentaiworld.tv
